@@ -20,4 +20,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - Center youtube videos to fit the page using flexbox and positioning
 - Verify font syles
 - Create BEM file structure
-- Review colors and spacing
+  <<<<<<< HEAD
+- # Review colors and spacing
+- review colors and spacing
+  > > > > > > > 54b2b064773f0e288551768355f0fcac6c08819a
