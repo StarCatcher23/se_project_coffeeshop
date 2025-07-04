@@ -1,6 +1,6 @@
 # Triple Peaks Coffee Shop
 
-![Image](https://github.com/user-attachments/assets/e0faeca6-03c0-4547-ae19-0ab7fec9a455)
+![Image](./images/building%20blocks%20of%20web%20development.jpg)
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
@@ -13,7 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
-![Image](https://github.com/user-attachments/assets/62354872-3f1d-49bd-854e-d1f5d96058c8)
+![Image](./images/flexbox.png)
 
 ## Plan on improving the project
 
