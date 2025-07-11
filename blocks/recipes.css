@@ -30,7 +30,7 @@
 
 .recipes__videos {
   display: flex;
-  gap: 40%;
+  gap: 40px;
   list-style-type: none;
   border: none;
   justify-content: center;
@@ -47,6 +47,7 @@
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 0;
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 500;
