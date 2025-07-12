@@ -21,3 +21,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - corrections to code
 - W3 code validator
 - figure out platform issues
+- check repository
