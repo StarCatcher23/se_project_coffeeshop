@@ -17,7 +17,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-- Center youtube videos to fit the page using flexbox and positioning
-- Verify font syles
-- Create BEM file structure
-- Review colors and spacing
+- BEM File structure
+- corrections to code
+- W3 code validator
